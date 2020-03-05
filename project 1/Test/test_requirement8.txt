@@ -1,0 +1,9 @@
+#include <fstream>
+
+for (int i = 0; i < 3; i++)
+{
+     i += 3;
+}
+for(;;)
+{
+}

@@ -1,0 +1,11 @@
+namespace ood{
+	std::cout<<"so hard\n";
+}
+using namespace yilan;
+using ood = so hard;
+
+std::cout<<"test namespace \n";
+
+using namespace ood;
+
+std::cout <<"test namesapce again \n";

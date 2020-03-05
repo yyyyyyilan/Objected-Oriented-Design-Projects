@@ -1,0 +1,10 @@
+#include <fstream>
+		
+class EatWhitespace : public ConsumeState
+{
+   public:   Toker();
+	     Toker(const Toker&) = delete;
+   protected: bool canRead();
+   private:
+	      ConsumeState* pConsumer;
+}

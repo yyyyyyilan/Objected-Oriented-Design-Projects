@@ -1,0 +1,1 @@
+.\Debug\MetricsExecutive.exe ./Test *.h *.cpp

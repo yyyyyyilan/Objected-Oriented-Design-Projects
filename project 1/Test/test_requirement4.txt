@@ -1,0 +1,31 @@
+#include <fstream>
+
+using namespace Scanner;
+
+Token& SemiExp::operator[](int n)
+{
+	if (n <= 0 || (size_t)n >= tokens.size())
+		throw(std::invalid_argument("index out of range"));
+}
+a != b;
+std::cin >> name;
+std::cout << "{((5 + 5) - 3) * 6 }/ 21 == 2 .";
+std::cout << "This is project1.";
+int a = b = c = d = 0;
+int a += 5;
+int b -= 3;
+int c *= 2;
+int d /= 1;
+
+/* This is written by
+Yilan
+*/
+//This is written by Yilan.
+
+//Special single char
+<>[](){}:=+-*
+
+std::cout << "please enter you name as format [lastname, firstname]: " << endl;
+
+//some punctuaters
+#$%:@^&*;!#%[]~
